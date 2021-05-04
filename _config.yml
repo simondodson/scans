@@ -1,21 +1,27 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
-description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
-baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
-
-# Build settings
+---
+title: Matterport 3D
+author: Matterport 3D
+email: support@Matterport 3D
+description: "Here is what you get with a Matterport 3D Tour: \n3D Dollhouse view
+  and floor plans generated to preview in every tour\n2D Schematic floor plans with
+  dimensions can be generated and ordered directly from Matterport, within 1% accuracy
+  using the types of cameras that we use at Hopscotch Interactive (Pro2 Cameras) \nWalkable
+  tour that can be viewed via link or embedded for viewing easily in the cloud on
+  mobile and on any web browser\nHosting fees that apply to all spaces (but we offer
+  the first 90 days free on residential listings) \nGreat HDR photography that can
+  be extracted and used in place of regular still photography for some properties
+  \nMattertags, or interactive elements that can add storytelling capability to your
+  tours\nFace blur (and coming-soon, blur anything!)\nHighlight reel\nTakes about
+  30-45 minutes per 1000 square feet for residential. Processing time is usually 2-12
+  hours. \nAnd, of course, you can view this content extremely well in a VR peripheral
+  device like an Oculus Quest or Quest 2"
+baseurl: "/ubuild-jekyll"
+url: ''
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default" # this ensures all content renders with layouts/default.html
-
+- scope:
+    path: ''
+  values:
+    layout: default
 plugins:
-  - jekyll-feed
-  - jekyll-menus
-
+- jekyll-feed
+- jekyll-menus
