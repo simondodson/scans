@@ -1,0 +1,30 @@
+---
+layout: blocks
+title: ''
+date: 
+page_sections:
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/05/04/square.png"
+  navigation:
+  - link: sadsa
+    link_text: dxcaszasdfasd
+  - link: ''
+    link_text: vbfcdfghghf\
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/05/04/square.png"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: App is free, but you need to know how to use it
+  media:
+    image: "/uploads/2021/05/04/download.jpeg"
+    alt_text: 'App is free, but you need to know how to use it '
+  content: These tours are given priority visibility on the Zillow platform including
+    their mobile app, and also on the desktop, as well as a 7 day boost in their search
+    and email notifications to people with saved searches. This is a HUGE benefit
+    to the Zillow 3D Home Tours
+  slug: ''
+
+---
