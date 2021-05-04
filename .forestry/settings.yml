@@ -6,21 +6,21 @@ webhook_url:
 sections:
 - type: document
   path: FORESTRY-README.md
-  label: Welcome - First Steps
+  label: Matterport 3D Premium Innovation
   read_only: true
 - type: jekyll-posts
-  label: Posts
+  label: 'Matterport 3D Real Estate '
   create: all
 - type: directory
-  path: ''
-  label: Pages
+  path: 'Estate Virtual Tours '
+  label: 'Estate Virtual Tours '
   create: all
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
 - type: document
   path: _config.yml
-  label: Config
+  label: Visualise Your Build
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
